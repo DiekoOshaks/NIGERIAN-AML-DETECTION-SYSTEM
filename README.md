@@ -77,31 +77,6 @@ Data Generation → Rule Engine → ML Model → Risk Engine → Dashboard
 
 
 
- Project Structure
-
-NIGERIAN_AML_DETECTION_SYSTEM/
-│
-├── apps/
-│   └── app.py
-│
-├── data/
-│   └── generate_data.py
-│
-├── models/
-│   ├── ml_model.py
-│   └── risk_engine.py
-│
-├── rules/
-│   └── rules_engine.py
-│
-├── transactions.csv
-├── flagged_transactions.csv
-├── ml_flagged.csv
-├── final_output.csv
-│
-└── README.md
-
-
  Technologies Used
 
 * Python
