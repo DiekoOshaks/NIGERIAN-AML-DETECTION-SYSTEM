@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # Load data
-df = pd.read_csv("../final_output.csv")
+df = pd.read_csv("final_output.csv")
 
 st.set_page_config(page_title="AML Dashboard", layout="wide")
 
